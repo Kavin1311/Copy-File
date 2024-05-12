@@ -36,7 +36,8 @@ with open("copy.txt",'w') as fp1:
 ```
 ### OUTPUT:
 
-![image](https://github.com/Kavin1311/Copy-File/assets/145695724/c460c5cf-0bb2-4d7c-82cf-1fe6bbba1f83)
+![image](https://github.com/Kavin1311/Copy-File/assets/145695724/22db45e7-049e-4f5c-b3d2-d2c1e3c3132e)
+
 
 
 ## RESULT:
